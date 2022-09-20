@@ -9,7 +9,7 @@ import React, {
 import './App.css';
 import { GithubIcon } from './GithubIcon';
 import { randomString, waitTimeout } from './utils';
-import { defaultTheme } from './themes/default';
+import { defaultTheme } from './themes/ikun';
 import { Icon, Theme } from './themes/interface';
 import { fishermanTheme } from './themes/fisherman';
 import { jinlunTheme } from './themes/jinlun';
